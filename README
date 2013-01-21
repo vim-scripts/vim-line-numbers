@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4404
+
+This plugin adds line numbers and enables the ruler for all plugin files. this prevents them from showing up in other kind of splits or windows (such as your NERD_tree window). You can find the source at https://github.com/Elzair/vim-line-numbers
